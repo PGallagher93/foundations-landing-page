@@ -138,6 +138,55 @@ body {
     
 }
 
+.bottom-section {
+    padding:48px;
+
+}
+.bottom-container {
+    background-color: #3882F6;
+    display: flex;
+    border-radius:8px;
+    justify-content: space-between;
+    padding-left:100px;
+    padding-right:100px;
+    gap:50px;
+    
+}
+
+.bottom-text {
+    margin-left:auto;
+    color:white;
+}
+
+.bottom-button {
+    margin-right:auto;
+    
+    align-items: center;
+    display: flex;
+    
+}
+
+
+.bottom-button button {
+    color:white;
+    background-color: #3882F6;
+    border-radius: 8px;
+    border-color: white;
+    padding: 6px;
+    width:90px;
+
+}
+
+.footer {
+    background-color: #1F2937;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    padding:32px;
+    color:white;
+}
+    
+
 
 
 
